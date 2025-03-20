@@ -1,0 +1,57 @@
+.projects {
+    padding: 4rem 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+    
+    
+  }
+  
+  .projects h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: rgb(255, 209, 43);
+    
+  }
+  
+  .projects p {
+    margin: 0 auto 2rem; /* Centra el párrafo horizontalmente */
+    color: #555;
+    max-width: 600px; /* Ajusta el ancho máximo del texto */
+    text-align: center; /* Centra el texto dentro del párrafo */
+    line-height: 1.6; /* Mejora la legibilidad */
+}
+  .latest-project {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(255, 209, 43);
+  }
+  
+  .latest-project img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+    border: 4px solid #fff;
+  }
+  
+  .latest-project a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .latest-project a:hover {
+    text-decoration: underline;
+  }
+@media (max-width: 480px) {
+    .latest-project img {
+        max-width: 90%;
+        height: auto;
+        border-radius: 8px;
+        margin: 10px 0;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        border: 4px solid #fff;
+      }
+
+}

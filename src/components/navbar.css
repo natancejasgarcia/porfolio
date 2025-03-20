@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #0000003f;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar ul li {
+    margin: 0 15px;
+  }
+  
+  .navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  .navbar ul li a:hover {
+    color: rgb(255, 210, 47); /* Cambia este color si lo prefieres */
+  }

@@ -1,0 +1,52 @@
+.about {
+    padding: 4rem 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-size: 2.5rem;
+    color: rgb(255, 210, 47);
+    margin-bottom: 1rem;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    color: #333;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+
+  .cards {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+    padding: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    width:100px;
+    height: 10px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card svg {
+    margin-right: 0.5rem;
+    width:20px;
+}
