@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.4c0f5bea.css",
+    "main.js": "/porfolio/static/js/main.37ef5c48.js",
+    "static/media/123456-1.png": "/porfolio/static/media/123456-1.64bab7d0cbf7fadac9a4.png",
+    "static/media/4.PNG": "/porfolio/static/media/4.22705ec313ee84afa890.PNG",
+    "static/media/madrid1.png": "/porfolio/static/media/madrid1.09d8a236c33c1a92806a.png",
+    "static/media/123.png": "/porfolio/static/media/123.e02d06915278609b6f24.png",
+    "static/media/1234567-1.png": "/porfolio/static/media/1234567-1.837dc04f0ac1d769411f.png",
+    "static/media/1234.png": "/porfolio/static/media/1234.174f1d17fa2a4e920edc.png",
+    "static/media/12.png": "/porfolio/static/media/12.491d79ccd39a0424f964.png",
+    "static/media/panoz.png": "/porfolio/static/media/panoz.bfe55b628c50a5a5ad16.png",
+    "static/media/12345.png": "/porfolio/static/media/12345.ec71033a0fadf8cc64f8.png",
+    "static/media/natan.webp": "/porfolio/static/media/natan.f9be54484912d565b0c8.webp",
+    "index.html": "/porfolio/index.html",
+    "main.4c0f5bea.css.map": "/porfolio/static/css/main.4c0f5bea.css.map",
+    "main.37ef5c48.js.map": "/porfolio/static/js/main.37ef5c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c0f5bea.css",
+    "static/js/main.37ef5c48.js"
+  ]
+}
